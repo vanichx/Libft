@@ -18,7 +18,7 @@ The **libft** project, short for "library functions," is an essential first step
 
 1. **Clone the repository**: 
    ```bash
-   git clone https://github.com/yourusername/libft.git
+   git clone https://github.com/vanichx/Libft.git libft
    ```
 
 2. **Compile the library**:
